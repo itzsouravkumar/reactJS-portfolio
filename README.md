@@ -1,9 +1,3 @@
----
-title: "Sourav Kumar Portfolio"
-description: "Personal portfolio built with React, Vite, and Tailwind CSS"
-author: "Sourav Kumar"
-version: "1.0.0"
----
 
 # Sourav Kumar – Portfolio
 
