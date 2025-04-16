@@ -7,7 +7,7 @@ const HomeSection = () => {
   const [currentText, setCurrentText] = useState("");
   const [index, setIndex] = useState(0);
   const roles = ["Developer", "Student", "Gamer"];
-  const roleColors = ["#0339fc", "#0339fc", "#0339fc"]; // Same color for all roles
+  const roleColors = ["#0339fc", "#0339fc", "#0339fc"]; 
   const typingSpeed = 160; // Speed of typing in milliseconds
   const pauseDuration = 1500; // Time to wait before switching role (in ms)
 

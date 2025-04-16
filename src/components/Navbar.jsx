@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center">
         <div className="flex items-center">
           <img
-            src="./assets/logo.png" // Adjust the path to your logo
+            src="./assets/logo.png" 
             alt="Logo"
             width={40}
             height={40}
